@@ -1,0 +1,13 @@
+{
+    "TaskList": "Task List",
+    "AddTask": "Add Task",
+    "Task": "Task",
+    "NewTask": "New Task",
+    "Language":"Language",
+    "English": "English",
+    "Vietnamese": "Vietnamese",
+    "CurrentTasks": "Current Tasks",
+    "Delete": "Delete",
+    "Whoops": "Whoops!",
+    "Error": "The name must NOT be EMPTY or GREATER THAN 255 characters."
+}
