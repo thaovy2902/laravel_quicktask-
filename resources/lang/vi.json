@@ -1,0 +1,16 @@
+{
+    "TaskList": "Danh  Sách",
+    "AddTask": "Thêm Nhiệm Vụ",
+    "Task": "Nhiệm Vụ",
+    "NewTask": "Thêm Nhiệm Vụ",
+    "Language": "Ngôn Ngữ",
+    "English": "Tiếng Anh",
+    "Vietnamese": "Tiếng Việt",
+    "CurrentTasks": "Nhiệm Vụ Đang Có",
+    "Delete ": "Xóa",
+    "Whoops": "Lỗi!",
+    "ErrorEmpty": "Tên nhiệm vụ không được để trống.",
+    "ErrorMax": "Tên nhiệm vụ không được quá 255 kí tự.",
+    "SaveFailed": "Lưu không thành công!",
+    "SaveSuccess": "Lưu thành công"
+}
